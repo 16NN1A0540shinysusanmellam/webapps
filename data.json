@@ -1,0 +1,46 @@
+{
+	"basics":{
+		"name":"shiny susan",
+		"role":"Mean-stack",
+		"mobile":"+91 9949983985 ",
+		"email":"shinysusan1999@gmail.com"
+	},
+	"career":{
+		"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+	},
+	"education":[
+		{
+			"degree":"B-Tech(Computer Science & Engineeering)",
+			"institute":"Vignan Nirula",
+			"data":["2016-20","85%"]
+		},
+		{
+			"degree":"Diploma(CME)",
+			"institute":"SUVR & SR",
+			"data":["2014-17","85%"]
+		},
+		{
+			"degree":"S.S.C",
+			"institute":"Sri Chaitanya",
+			"data":["2014","85%"]
+		}
+	],
+	"skills":[
+		{
+             "title":"Programming Languages",
+             "content":["Python","C","Java","R","C++"]
+		},
+		{
+             "title":"Data Bases",
+             "content":["Sql","Oracle","mySql"]
+         },
+         {
+             "title":"Web Technologies",
+             "content":["HTML","XML","JavaScript","CSS"]
+         },
+         {
+             "title":"Operating Systems",
+             "content":["Windows","Unix","Linux"]
+         }
+	]
+}
